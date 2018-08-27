@@ -1,0 +1,5 @@
+[deps]
+    yum
+    mc
+    htop
+    wget
